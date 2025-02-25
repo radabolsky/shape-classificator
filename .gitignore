@@ -1,5 +1,6 @@
 mlruns/*
 weights/*
+runs/*
 
 ### Python ###
 venv/
